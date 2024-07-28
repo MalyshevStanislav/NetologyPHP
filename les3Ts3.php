@@ -158,4 +158,3 @@ do {
 } while ($operationNumber > 0);
 
 echo 'Программа завершена' . PHP_EOL;
-?>
